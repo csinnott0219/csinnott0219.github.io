@@ -1,1 +1,8 @@
-# csinnott0219.github.io
+# Data Scientist
+
+### Education
+here
+
+### Projects
+here
+ - more
